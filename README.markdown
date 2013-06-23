@@ -1,6 +1,9 @@
-# Represent | Representer | Deckdown | Powerdown | Markdeck
+# Represent
 
-# H1 is the presentation title
+Markdown driven presentations for humans
+
+> Represent | Representer | Deckdown | Powerdown | Markdeck
+
 
 ## What is Represent?
 
